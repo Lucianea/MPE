@@ -1,4 +1,4 @@
-#Elaborar
+# Elaborar
 
 As Normas utilizadas para elaborar uma monografia ou tese consideram:
 
@@ -13,7 +13,7 @@ monografia ou a tese;
 
 + conclusões – que conclusões foram encontradas, e ou sugestões de prosseguimento
 
-#Ingredientes pessoais
+# Ingredientes pessoais
 
 É preciso ter disposição, entusiasmo, motivação para se fazer um bom trabalho
 científico, pois uma monografia exige pesquisa e investigação do interessado, no que se
@@ -26,12 +26,12 @@ gramatical, em redigir com simplicidade, falar e escrever em linguagem direta e 
 rodeios, resultando em uma exposição precisa, clara, objetiva, de fácil entendimento para
 todos. 
 
-#Tema
+# Tema
 
 O tema de uma monografia é livre, podendo ter como eixo orientador assuntos que foram
 focalizados durante o curso, onde o aluno deseja aprofundar em sua investigação.
 
-#O que o aluno ganha com isso?
+# O que o aluno ganha com isso?
 
 Oportunidade para demonstrar
 o grau de habilitação adquirido, o nível de conhecimento e aprofundamento temático,
@@ -40,7 +40,7 @@ especializada. Aprimorar a capacidade de
 interpretação crítica do aluno, sua competência, preparando-o para o
 mercado competitivo e tornando-o mais apto para o exercício profissional.
 
-#Recomendações para redação
+# Recomendações para redação
 
 Ao redigir o texto é recomendado não utilizar a primeira pessoa, a linguagem deve ser
 clara e expositiva, inclusive no desenvolvimento do texto, onde se apresenta o
