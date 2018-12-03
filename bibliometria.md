@@ -1,3 +1,3 @@
-#Pacote do R para bibliometria
+# Pacote do R para bibliometria
 
 http://www.bibliometrix.org/index.html
