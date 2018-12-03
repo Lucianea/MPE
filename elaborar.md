@@ -5,7 +5,7 @@ As Normas utilizadas para elaborar uma monografia ou tese consideram:
 + definir o que se vai estudar;- rever a literatura existente e outras fontes de consulta
 a respeito do assunto ou tema em questão; 
 
-+justificar, isto é, estar claro o porquê estudar e aprofundar aquele assunto, que
++ justificar, isto é, estar claro o porquê estudar e aprofundar aquele assunto, que
 novas abordagens se propõem fazer;
 
 + metodologia aplicada, isto é, a maneira como se pretende desenvolver a
