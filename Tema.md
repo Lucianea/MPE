@@ -1,4 +1,4 @@
-#A escolha do tema
+# A escolha do tema
 
 1. O tema deve interessar ao aluno. Não adianta escolher temas que sejam impostos ou sobre os quais não se tenha qualquer motivação para seu estudo.
 
